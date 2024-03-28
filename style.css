@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gantari", sans-serif;
+  text-decoration: none;
+
+  border: none;
+}
+
+body {
+   background: url('https://source.unsplash.com/random/1600x900/?nature');
+  /*background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );*/
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  
+  gap: 35px;
+}
+
+main {
+  backdrop-filter: blur(20px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+  border: solid 3px #fff;
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.3);
+  padding: 35px;
+  gap: 35px;
+}
+
+h1 {
+  color: #fff;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  height: 30px;
+  background: transparent;
+  border-bottom: 1px solid #fff;
+  padding-left: 15px;
+  color: #000
+  
+}
+
+div {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  font-style: normal;
+  font-size: 8px;
+  cursor: pointer;
+  color-scheme:  dark;
+}
+
+.bx {
+  font-size: 30px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: #fff;
+  border-radius: 5px;
+  width: 100%;
+  color: black;
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.3);
+}
+
+.button:hover {
+  cursor: pointer;
+  opacity: .7;
+}
+
+.button:active {
+  transform: scale(0.9);
+}
