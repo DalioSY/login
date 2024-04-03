@@ -49,7 +49,7 @@ Deixe seu feedback nos comentários!
 
 <div id="user-content-toc">
   <ul align="center">
-    <h2 style="display: inline-block">Iagens:</h2>
+    <h2 style="display: inline-block">Imagens:</h2>
   </ul>
 </div>
 
