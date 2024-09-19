@@ -1,8 +1,4 @@
-
-
 <h1 align="center">Projeto Login Inspirador!</h1>
-
-
 
 <h2>Olá sejam bem-vindo</h2>
 <p>Quero compartilhar com vocês um projeto de login que desenvolvi recentemente, inspirado em um vídeo do meu mentor Rodolfo Mori. O vídeo usa técnicas incríveis de HTML e CSS que me permitiram criar um design elegante e funcional.</p>
@@ -34,17 +30,18 @@ Espero que vocês gostem!
 
 Deixe seu feedback nos comentários!
 
-#html #css #login #design #inspiração #desenvolvimentoweb #webdesign 
+#html #css #login #design #inspiração #desenvolvimentoweb #webdesign
+
 </p>
 
 <h4>Link:</h4>
 
->Deploy: https://daliosy.github.io/login
+> Deploy: https://daliosy.github.io/login
 
->Repoditório: https://github.com/DalioSY/login
+> Repoditório: https://github.com/DalioSY/login
 
->Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
- 
+> Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
+
 <br>
 
 <div id="user-content-toc">
@@ -54,10 +51,5 @@ Deixe seu feedback nos comentários!
 </div>
 
 <div align="center"> 
-  <img src="./img/Captura012050.png" width="250px">
-  <img src="./img/Captura012058.png" width="250px">
-  <img src="./img/Captura012107.png" width="250px">
-  <img src="./img/Captura012115.png" width="250px">
-  <img src="./img/Captura012123.png" width="250px">
-  <img src="./img/Captura012146.png" width="250px">
+  <img src="./img/image.png" width="250px">
 </div>
